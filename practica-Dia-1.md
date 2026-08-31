@@ -12,3 +12,8 @@ El alcohol ha acompañado a la humanidad durante más de 9.000 años a través d
 - Antigüedad: En Mesopotamia y Sumeria (hace 6.000 años) se consumía cerveza y vino de cebada y uva. En el Antiguo Egipto, la cerveza era de consumo popular y el vino era para la élite.
 - Grecia y Roma: El vino se convirtió en un pilar cultural y social, diluido en agua y vinculado a rituales y banquetes.
 - La destilación: En el siglo IX, alquimistas árabes inventaron la destilación para concentrar el alcohol mediante calor, usándolo primero con fines medicinales.
+
+## PRODUCCION
+
+- Fermentación alcohólica: Un proceso bioquímico donde las levaduras transforman los azúcares naturales en alcohol etílico (etanol) y dióxido de carbono. Produce bebidas como la cerveza y el vino.
+- Destilación: Calienta un líquido fermentado porque el alcohol hierve antes que el agua; luego se enfrían y condensan los vapores para obtener licores de mayor graduación (como el ron, el aguardiente o el whisky).
